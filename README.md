@@ -1,3 +1,3 @@
 # discord-bot-test
 Testing Discord Bots
-NTQ0MTMyMjM4OTg4NTQxOTUz.XGAYow.pOfFYVw7Ed-RUAwtlKzXQTp4MSM
+Njg4NzU3ODQ2MjkyNDMxMDE4.Xm49uw.dyb28JR6SdaBqcZxNqwSAs5uRPo
